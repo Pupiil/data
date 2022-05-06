@@ -21,7 +21,7 @@ import shutil
 
 # Setup variables. Change as needed
 NAME = "pupiildata"
-VERSION = "0.0.3"
+VERSION = "0.0.4"
 AUTHOR = "Saif Ul Islam"
 AUTHOR_EMAIL = "saifulislam84210@gmail.com"
 LICENSE = "MIT"
