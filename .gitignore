@@ -342,6 +342,7 @@ cython_debug/
 # Misc
 certs/
 misc/node_data*
+db.csv
 
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
