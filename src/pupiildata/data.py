@@ -10,7 +10,7 @@ def main():
     # server's IP address
     config = {
         "SERVER_HOST": "127.72.1.1",
-        "SERVER_PORT": 6042,  # port we want to use
+        "SERVER_PORT": 6052,  # port we want to use
         "separator_token": "<SEP>",  # we will use this to separate the client name & message
     }
 
